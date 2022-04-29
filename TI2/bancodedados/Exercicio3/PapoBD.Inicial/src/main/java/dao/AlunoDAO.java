@@ -61,7 +61,7 @@ public class AlunoDAO extends DAO {
 		
 		try {
 			Statement st = conexao.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
-			String query = "SELECT * FROM aluno" + ((orderBy.trim().length() == 0) ? "" : (" ORDERBY " + orderBy));
+			String query = "SELECT * FROM aluno" + ((orderBy.trim().length() == 0) ? "" : (" ORDER BY " + orderBy));
 			ResultSet rs = st.executeQuery(query);
 			while(rs.next()) {
 				Aluno aluno = new Aluno(rs.getInt("id"),rs.getString("nome"),rs.getString("email"),
