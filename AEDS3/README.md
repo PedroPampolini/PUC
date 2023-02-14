@@ -1,18 +1,9 @@
-# Repositório do Sistema de Gerenciamento de Usuários
+# Repositório da Disciplina Algoritmos e Estrutura de Dados III
 
-Este repositório contém um sistema de gerenciamento de usuários, que possui as seguintes funcionalidades:
+Repositorio sobre a disciplina AEDs3
 
-## CRUD de Usuários
-- Adição, edição e remoção de usuários com informações básicas. A senha inserida no banco é criptografada usando o algoritmo RSA.
+## Sistema de Banco
+- Repositório contendo um sistema de gerenciamento de usuários.
 
-## Ordenação de Arquivo
-- Ordenação do arquivo .db feita por intercalação balanceada.
-
-## Índices para Usuários
-- Estruturas de dados para indexar os usuários, incluindo árvore B+, hash extensível e lista invertida.
-
-## Compressão de Arquivos
-- Algoritmos de compressão de arquivos, incluindo LZW e Huffman.
-
-## Casamento de Padrão nas Strings
-- Método de casamento de padrão nas strings do usuário usando KMP.
+## Levenshtein
+- Simples casamento aproximado de padrão usando o algoritmo de Levenshtein
