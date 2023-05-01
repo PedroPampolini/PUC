@@ -1,0 +1,45 @@
+C:\Users\pedro\Downloads\cs test\bin\Debug\net7.0\cs test.exe
+C:\Users\pedro\Downloads\cs test\bin\Debug\net7.0\cs test.deps.json
+C:\Users\pedro\Downloads\cs test\bin\Debug\net7.0\cs test.runtimeconfig.json
+C:\Users\pedro\Downloads\cs test\bin\Debug\net7.0\cs test.dll
+C:\Users\pedro\Downloads\cs test\bin\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.AssemblyInfo.cs
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.dll
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\refint\cs test.dll
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\cs test.genruntimeconfig.cache
+C:\Users\pedro\Downloads\cs test\obj\Debug\net7.0\ref\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\bin\Debug\net7.0\cs test.exe
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\bin\Debug\net7.0\cs test.deps.json
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\bin\Debug\net7.0\cs test.runtimeconfig.json
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\bin\Debug\net7.0\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\bin\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\refint\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\cs test.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista 6\cs test\obj\Debug\net7.0\ref\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\bin\Debug\net7.0\cs test.exe
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\bin\Debug\net7.0\cs test.deps.json
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\bin\Debug\net7.0\cs test.runtimeconfig.json
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\bin\Debug\net7.0\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\bin\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\refint\cs test.dll
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.pdb
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\cs test.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Programas PUC\4Periodo\InteligenciaArtificial\Lista6\Perceptron Test\obj\Debug\net7.0\ref\cs test.dll
