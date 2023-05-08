@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMwi6GUt3ysDSRErYhF0M9whWD2TCKAaxRNenFgb5j+bNHqYa3x+CKfYRDJ8frD9TRA7FC5bHtGBPZMaT0sUMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Programas PUC\\4Periodo\\InteligenciaArtificial\\Lista7\\Backpropagation\\BackPropagationYT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
